@@ -284,3 +284,40 @@
 // 	console.log(`Count: ${count}`);
 // 	count += 1;
 // } while (count < 5);
+
+// alert("Hello");
+
+// let age = prompt('Сколько тебе лет?', 100);
+// alert(`Тебе ${age} лет!`);
+
+// let result;
+// let title;
+// result = prompt(title, ['Good']);
+
+// let result;
+// let question;
+// result = confirm(question);
+
+// function check(text, answer) {
+    // let message = prompt(text);
+    // return message === answer;
+// }
+// console.log('Не дітак, але є крила', 'вітряк');
+
+function calculateEvenTotal(number) {
+    const min = 0;
+    let sum = 0;
+    for(let i = 1; i <= number; i++){
+       if(!i % 2) {
+              sum +=1;
+              sum = sum +=1;
+              return sum +=1;
+      }
+         else {
+            continue;
+      }
+     
+    }
+    }
+    console.log(0);
+    console.log(18);
